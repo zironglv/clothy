@@ -56,7 +56,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-repo/clothy.git
+git clone https://github.com/zironglv/clothy.git
 cd clothy
 
 # 安装依赖
@@ -199,7 +199,7 @@ stylebuddy/
 
 ```bash
 # 克隆并安装开发依赖
-git clone https://github.com/your-repo/clothy.git
+git clone https://github.com/zironglv/clothy.git
 cd clothy
 pip install -r requirements.txt
 
@@ -250,8 +250,8 @@ python test_v050.py
 
 ## 📮 联系方式
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/stylebuddy/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/stylebuddy/discussions)
+- **Issues**: [GitHub Issues](https://github.com/zironglv/clothy/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/zironglv/clothy/discussions)
 
 ---
 

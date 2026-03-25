@@ -5,7 +5,7 @@
 ## 🌟 贡献方式
 
 ### 报告问题
-- 使用 [GitHub Issues](https://github.com/your-repo/clothy/issues)
+- 使用 [GitHub Issues](https://github.com/zironglv/clothy/issues)
 - 描述清楚问题复现步骤
 - 附上错误日志或截图
 
@@ -94,8 +94,8 @@ python test_v050.py
 
 ## 💬 讨论
 
-- [GitHub Discussions](https://github.com/your-repo/clothy/discussions) — 功能讨论、问答
-- [GitHub Issues](https://github.com/your-repo/clothy/issues) — Bug 报告、功能请求
+- [GitHub Discussions](https://github.com/zironglv/clothy/discussions) — 功能讨论、问答
+- [GitHub Issues](https://github.com/zironglv/clothy/issues) — Bug 报告、功能请求
 
 ---
 

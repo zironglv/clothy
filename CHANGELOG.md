@@ -52,5 +52,5 @@
 
 ---
 
-[0.5.0]: https://github.com/your-repo/stylebuddy/releases/tag/v0.5.0
-[0.4.0]: https://github.com/your-repo/stylebuddy/releases/tag/v0.4.0
+[0.5.0]: https://github.com/zironglv/clothy/releases/tag/v0.5.0
+[0.4.0]: https://github.com/zironglv/clothy/releases/tag/v0.4.0
