@@ -1,0 +1,18 @@
+{
+  "id": "clothy",
+  "name": "Clothy",
+  "version": "0.5.0",
+  "description": "AI 穿搭闺蜜 - 智能衣橱管理与搭配推荐，支持多人衣橱",
+  "author": "OpenClaw",
+  "entry": "main.py",
+  "triggers": [
+    "穿搭",
+    "衣服",
+    "衣橱",
+    "搭配",
+    "今天穿什么",
+    "推荐搭配",
+    "录入衣服",
+    "记录穿搭"
+  ]
+}
