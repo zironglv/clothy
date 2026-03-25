@@ -127,7 +127,7 @@ result = app.process("分析我的衣橱")
 ## 🏗️ 项目结构
 
 ```
-stylebuddy/
+clothy/
 ├── main.py                 # 主入口
 ├── SKILL.md               # Skill 定义文件
 ├── requirements.txt       # Python 依赖
